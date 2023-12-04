@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hi, I'm Emma - Frontend Dev in the Making!
+
+🎓 Studying frontend development with a passion for creating sleek, user-centric interfaces.
+
+🚀 Currently working on a weather app to further practice coding and working with Javascript.
+
+💻 Eager to learn and grow in tech.
 
 <!--
 **emmaoliviamellgren/emmaoliviamellgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
