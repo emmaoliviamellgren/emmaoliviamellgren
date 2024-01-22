@@ -2,7 +2,7 @@
 
 🎓 Currently studying frontend development at KYH.
 
-🚀 At the moment I am working on a 🌦🌱 weather app, to further practice coding and applying concepts I've learnt in a classroom environment.
+🚀 At the moment I am working on an e-commerce site in React, to further practice coding and applying concepts I've learnt in a classroom environment.
 
 💻 Mastering the art of crafting engaging user interfaces using HTML5, CSS3, and JavaScript. I'm eager to learn and grow in tech!
 
