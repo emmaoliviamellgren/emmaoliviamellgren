@@ -2,9 +2,9 @@
 
 🎓 Currently studying frontend development at KYH.
 
-🚀 At the moment I am working on an e-commerce site in React, to further practice coding and applying concepts I've learnt in a classroom environment.
+🚀 At the moment I am working on a portfolio website in React, to further practice coding and applying concepts I've learnt in a classroom environment.
 
-💻 Mastering the art of crafting engaging user interfaces using HTML5, CSS3, and JavaScript. I'm eager to learn and grow in tech!
+💻 Mastering the art of crafting engaging user interfaces. I'm eager to learn and grow in tech!
 
 <!--
 **emmaoliviamellgren/emmaoliviamellgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
