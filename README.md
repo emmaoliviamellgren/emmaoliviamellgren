@@ -2,7 +2,7 @@
 
 🎓 Currently studying frontend development at KYH.
 
-🚀 At the moment I am working on a portfolio website in React, to further practice coding and applying concepts I've learnt in a classroom environment.
+🚀 Looking for LIA in the Stockholm area!
 
 💻 Mastering the art of crafting engaging user interfaces. I'm eager to learn and grow in tech!
 
