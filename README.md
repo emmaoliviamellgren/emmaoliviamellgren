@@ -6,6 +6,8 @@
 
 💻 Mastering the art of crafting engaging user interfaces. I'm eager to learn and grow in tech!
 
+⚡ [Click Me!](https://emmamellgren.vercel.app)
+
 <!--
 **emmaoliviamellgren/emmaoliviamellgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
