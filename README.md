@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Emma - Frontend Dev in the Making!
 
-🎓 Currently studying to become a Front End Developer at [KYH](https://www.linkedin.com/school/kyh).
+🎓 Studying to become a Front End Developer at [KYH](https://www.linkedin.com/school/kyh).
 
-🚀 Looking for LIA in the Stockholm area!
+🚀 Currently developing my skills in TypeScript!
 
 💻 Mastering the art of crafting engaging user interfaces. I'm eager to learn and grow in tech!
 
