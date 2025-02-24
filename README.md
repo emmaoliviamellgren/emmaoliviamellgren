@@ -2,7 +2,7 @@
 
 🎓 Studying to become a Front End Developer at [KYH](https://www.linkedin.com/school/kyh).
 
-🚀 Currently developing my skills in TypeScript!
+🌱🚀 Currently fine-tuning my skills in UI/UX!
 
 💻 Mastering the art of crafting engaging user interfaces. I'm eager to learn and grow in tech!
 
