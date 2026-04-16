@@ -13,4 +13,3 @@
 ⚡  I'm eager to learn and grow in tech!<br/>
 <br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=emmaoliviamellgren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
